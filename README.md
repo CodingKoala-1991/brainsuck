@@ -1,3 +1,6 @@
+## 说明
+fork 自 liancheng 大神，自行去修改去理解一下这个小项目
+
 ## Brainsuck
 
 Brainsuck is an optimizing compiler prototype for the Brainfuck programming language.  It's written in Scala using the same technologies used in Spark SQL's Catalyst optimizer.  It's minimum, and only consists of 292 lines of code (test code not included).  This project is designed for [my QCon Beijing 2015 talk][1].
